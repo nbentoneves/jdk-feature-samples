@@ -6,10 +6,10 @@
   1. [Sample 1](src/main/java/com/github/jdk10/jep286/LocalVariableTypeInferenceSample1.java) -
      Simple use case showing the feature
 
-### JDK 12
+### JDK 14
 
-* **_JEP 325_** - Switch Expressions (Preview)
-  1. [Sample 1](src/main/java/com/github/jdk12/jep325/SwitchSample1.java) -
+* **_JEP 354_** - Switch Expressions (Preview)
+  1. [Sample 1](src/main/java/com/github/jdk14/jep354/SwitchSample1.java) -
      Simple use case showing the feature
 
 ### JDK 16
