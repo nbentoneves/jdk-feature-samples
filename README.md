@@ -8,9 +8,16 @@
 
 ### JDK 14
 
-* **_JEP 354_** - Switch Expressions (Preview)
-  1. [Sample 1](src/main/java/com/github/jdk14/jep354/SwitchSample1.java) -
+* **_JEP 361_** - Switch Expressions
+  1. [Sample 1](src/main/java/com/github/jdk14/jep361/SwitchSample1.java) -
      Simple use case showing the feature
+  2. [Sample 2](src/main/java/com/github/jdk14/jep361/SwitchSample2.java) -
+        Use case showing switch yielding a value
+
+### JDK 15
+* **_JEP 378_** - Text Blocks
+    1. [Sample 1](src/main/java/com/github/jdk15/jep378/TextBlocksSample1.java) -
+       Simple use case showing the feature
 
 ### JDK 16
 
