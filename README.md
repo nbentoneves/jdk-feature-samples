@@ -1,5 +1,9 @@
 # JDK Features Samples
 
+### JDK 10
+
+* **_JEP 286_** - Local-Variable Type Inference
+
 ### JDK 16
 
 * **_JEP 405_** - Pattern Matching for instanceof (Preview)
